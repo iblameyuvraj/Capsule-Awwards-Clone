@@ -1,3 +1,5 @@
+'use client';
+
 import { useRef, useState } from 'react';
 import banner from '../../assets/background3.png';
 import { useGSAP } from '@gsap/react';

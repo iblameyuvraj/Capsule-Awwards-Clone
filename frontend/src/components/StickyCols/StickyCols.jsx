@@ -1,3 +1,5 @@
+'use client';
+
 import gsap, { ScrollTrigger, SplitText } from "gsap/all";
 import { useGSAP } from "@gsap/react";
 import colimg1 from "../../assets/cap1-square.jpg";

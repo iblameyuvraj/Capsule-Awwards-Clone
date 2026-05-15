@@ -1,3 +1,5 @@
+'use client';
+
 import "./revbtn.css";
 
 const AnimateBtn = (props) => {

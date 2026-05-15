@@ -1,3 +1,5 @@
+'use client';
+
 import { useState } from "react";
 import { IoMdArrowForward, IoMdArrowBack } from "react-icons/io";
 import { feedbackH1LG, feedbackReviewLG } from "../../constants/feedback";

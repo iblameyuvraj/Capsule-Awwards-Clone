@@ -1,3 +1,5 @@
+'use client';
+
 // import './marqueesticky.css';
 import MarqueeText from "../Marquee/MarqueeText";
 import StickyCols from "../StickyCols/StickyCols";

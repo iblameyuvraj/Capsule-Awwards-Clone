@@ -1,3 +1,5 @@
+'use client';
+
 import gsap from "gsap/all";
 import smoke from "../../assets/smoke_final.mp4";
 import mobileHeroBg from "../../assets/hero-mobile.png"

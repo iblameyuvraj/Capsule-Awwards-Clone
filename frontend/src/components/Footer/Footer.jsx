@@ -1,3 +1,5 @@
+'use client';
+
 import { useRef } from "react";
 import { FaBehance, FaInstagram, FaDribbble } from "react-icons/fa";
 import { CiLinkedin } from "react-icons/ci";
